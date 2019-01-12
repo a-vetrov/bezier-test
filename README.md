@@ -1,1 +1,1 @@
-# bezier-test
+Draws a bezier curve throw the points
